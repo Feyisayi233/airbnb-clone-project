@@ -35,6 +35,8 @@ This project is a full-stack clone of the popular accommodation booking platform
 Stay tuned for more updates as the project progresses! 🚀
 
 
+
+
 ## 📐 UI/UX Design Planning
 
 ### 🎯 Design Goals
@@ -66,3 +68,39 @@ Stay tuned for more updates as the project progresses! 🚀
 
 ### 💡 Importance of User-Friendly Design
 A user-friendly design reduces friction in the booking process, leading to higher conversion rates and better user satisfaction. Clear navigation, fast loading times, and intuitive UI patterns ensure users can quickly find, explore, and book properties without confusion. This is critical for both trust and usability, especially in a competitive market like travel booking.
+
+
+---
+
+### 🎨 Figma Design Specifications
+
+#### 🖌️ Color Styles
+- **Primary Color**: `#FF5A5F`
+- **Secondary Color**: `#008489`
+- **Background Color**: `#FFFFFF`
+- **Text Color**: `#222222`
+- **Secondary Text Color**: `#717171`
+
+#### 🔠 Typography
+- **Font Family**: Circular
+- **Headings**:
+  - Font Weight: Bold (700)
+  - Font Size: 24px – 32px
+- **Primary Text**:
+  - Font Weight: Medium (500)
+  - Font Size: 16px
+- **Secondary Text**:
+  - Font Weight: Book (400)
+  - Font Size: 14px
+
+---
+
+### 📌 Why Identifying Design Properties Matters
+
+Understanding and documenting the **color styles** and **typography** in a mockup design is critical to maintaining **visual consistency**, **brand identity**, and **design-to-code accuracy**. It ensures that:
+- Developers can implement styles exactly as intended by the designer.
+- UI components remain cohesive across different pages and devices.
+- The product delivers a professional and unified user experience.
+- Accessibility and readability standards are upheld.
+
+This alignment between design and implementation is essential for creating polished, user-friendly interfaces.
