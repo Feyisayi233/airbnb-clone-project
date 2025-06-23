@@ -33,3 +33,36 @@ This project is a full-stack clone of the popular accommodation booking platform
 ---
 
 Stay tuned for more updates as the project progresses! 🚀
+
+
+## 📐 UI/UX Design Planning
+
+### 🎯 Design Goals
+- Create an **intuitive and seamless booking flow** for users.
+- Maintain **visual consistency** across all components and pages.
+- Ensure **fast loading times** for optimal performance.
+- Prioritize **mobile responsiveness** using a mobile-first approach.
+- Design with **accessibility** in mind to accommodate all users.
+
+---
+
+### ✨ Key Features
+- **Property Search & Filtering**: Users can find listings based on location, price, and availability.
+- **Detailed Property Viewing**: Users can explore property photos, amenities, and host information.
+- **Secure Checkout Process**: Users can confirm bookings and complete payments smoothly.
+- **User Authentication**: Sign-up/login functionality to manage bookings and favorites.
+
+---
+
+### 📄 Primary Pages
+
+| Page | Description |
+|------|-------------|
+| **Property Listing View** | A grid layout displaying all available properties. Includes filters for price, date, location, and more. Each card shows an image, location, price, and rating. |
+| **Listing Detailed View** | A detailed page for a selected property showing full images, descriptions, amenities, pricing, host info, and booking form. |
+| **Simple Checkout View** | A clean, focused view where the user can enter payment info and confirm the booking. Includes booking summary and total price breakdown. |
+
+---
+
+### 💡 Importance of User-Friendly Design
+A user-friendly design reduces friction in the booking process, leading to higher conversion rates and better user satisfaction. Clear navigation, fast loading times, and intuitive UI patterns ensure users can quickly find, explore, and book properties without confusion. This is critical for both trust and usability, especially in a competitive market like travel booking.
