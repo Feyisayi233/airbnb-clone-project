@@ -35,7 +35,7 @@ This project is a full-stack clone of the popular accommodation booking platform
 Stay tuned for more updates as the project progresses! 🚀
 
 
-
+---
 
 ## 📐 UI/UX Design Planning
 
@@ -104,3 +104,22 @@ Understanding and documenting the **color styles** and **typography** in a mocku
 - Accessibility and readability standards are upheld.
 
 This alignment between design and implementation is essential for creating polished, user-friendly interfaces.
+
+---
+
+## 👥 Project Roles and Responsibilities
+
+To ensure clarity and efficiency throughout the development process, each team member is assigned a well-defined role with specific responsibilities. This helps foster collaboration, accountability, and smooth project delivery.
+
+| Role | Responsibilities |
+|------|------------------|
+| **Project Manager** | Oversees the entire project timeline, ensures deliverables are met, coordinates tasks among team members, manages risks, and communicates progress with stakeholders. |
+| **Frontend Developers** | Build and maintain the user interface using React and related technologies. Implement responsive design, integrate UI components, and ensure consistency with the design system. |
+| **Backend Developers** | Design and develop APIs, manage database structure, implement core business logic, and handle user authentication, data validation, and server-side processing. |
+| **Designers** | Create mockups and high-fidelity prototypes using Figma. Define design systems, ensure brand consistency, and deliver assets that guide frontend development. |
+| **QA/Testers** | Write and execute unit, integration, and end-to-end test cases. Identify bugs, verify fixes, and ensure the application meets quality standards across devices. |
+| **DevOps Engineers** | Handle CI/CD pipeline, manage deployment environments, monitor performance, and maintain server and infrastructure reliability. |
+| **Product Owner** | Defines the product vision, prioritizes features, writes user stories, and acts as the voice of the customer. Ensures the product meets business needs. |
+| **Scrum Master** | Facilitates daily standups, sprint planning, and retrospectives. Removes team blockers, enforces Agile principles, and ensures smooth sprint execution. |
+
+Each role contributes uniquely to building a scalable, high-quality product. Collaboration across all roles ensures we meet both technical and user-centered goals.
