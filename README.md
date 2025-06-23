@@ -123,3 +123,49 @@ To ensure clarity and efficiency throughout the development process, each team m
 | **Scrum Master** | Facilitates daily standups, sprint planning, and retrospectives. Removes team blockers, enforces Agile principles, and ensures smooth sprint execution. |
 
 Each role contributes uniquely to building a scalable, high-quality product. Collaboration across all roles ensures we meet both technical and user-centered goals.
+
+---
+
+## 🧩 UI Component Patterns
+
+To ensure consistency, reusability, and maintainability across the application, the project will adopt a component-based architecture. Each component will follow clear design rules and responsive behavior patterns.
+
+### Planned UI Components
+
+#### 🔝 Navbar
+- **Elements**:
+  - Logo (links to home)
+  - Search bar
+  - User navigation (login/profile)
+  - Hamburger menu for mobile
+- **Behavior**:
+  - Responsive layout
+  - Sticky on scroll
+
+#### 🏠 Property Card
+- **Elements**:
+  - Property image
+  - Price per night
+  - Location and rating
+  - Favorite (heart) button
+- **Behavior**:
+  - Clickable to view details
+  - Responsive grid layout
+
+#### 📦 Footer
+- **Elements**:
+  - Navigation links (About, Help, Terms, etc.)
+  - Company information
+  - Social media icons
+  - Copyright
+- **Behavior**:
+  - Stays at the bottom of every page
+  - Adapts to screen sizes
+
+---
+
+Each component will be built to be:
+- **Reusable**: Used across multiple pages or layouts.
+- **Responsive**: Works well on mobile, tablet, and desktop.
+- **Accessible**: Follows accessibility best practices (e.g., alt text, keyboard navigation).
+- **Modular**: Easy to maintain, test, and extend.
